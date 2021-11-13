@@ -1,0 +1,25 @@
+.navbar-nav .nav-link {
+  color: rgba(0, 0, 0, 1) !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: rgba(0, 0, 255, 1) !important;
+}
+
+body {
+  font-family: "Praise", sans-serif;
+  font-size: 25px;
+}
+
+#blogtitle {
+  font-size: 8rem;
+}
+
+@media (min-width: 992px) {
+  #hometext {
+    font-size: 4rem;
+  }
+  #blogdetailtitle {
+    font-size: 5rem;
+  }
+}
